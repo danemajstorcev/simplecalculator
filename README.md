@@ -1,1 +1,1 @@
-# simplecalculator
+Simple calculator project

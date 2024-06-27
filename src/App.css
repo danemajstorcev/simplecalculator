@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.calculator {
+  width: 300px;
+  margin: 3em auto;
+}
+.buttons button {
+  font-size: 2em;
+  padding: 0.2em 0.5em;
+}
+.result input {
+  width: 97%;
+  font-size: 2em;
+  text-align: right;
+}
